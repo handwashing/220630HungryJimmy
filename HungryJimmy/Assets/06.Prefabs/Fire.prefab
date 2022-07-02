@@ -1,5 +1,65 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1024489146348218386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949840618869494}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6634349349973210397}
+  m_Layer: 0
+  m_Name: 'wood (1) (Missing Prefab with guid: 74e49787472c8ff4fab48070f7a8b3a7)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6634349349973210397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949840618869494}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1024489146348218386}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6600949840594355163}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1313755097424120737
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949840697403059}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6634349349894472024}
+  m_Layer: 0
+  m_Name: 'wood (3) (Missing Prefab with guid: 74e49787472c8ff4fab48070f7a8b3a7)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6634349349894472024
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949840697403059}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1313755097424120737}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6600949840594355163}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3163474781527140732
 GameObject:
   m_ObjectHideFlags: 0
@@ -4813,6 +4873,66 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
+--- !u!1 &3647637348336063024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949840142659403}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6634349350483036320}
+  m_Layer: 0
+  m_Name: 'wood (2) (Missing Prefab with guid: 74e49787472c8ff4fab48070f7a8b3a7)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6634349350483036320
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949840142659403}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3647637348336063024}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6600949840594355163}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6108952900761788154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949841258923107}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6634349349332951944}
+  m_Layer: 0
+  m_Name: 'wood (Missing Prefab with guid: 74e49787472c8ff4fab48070f7a8b3a7)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6634349349332951944
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
+  m_PrefabInstance: {fileID: 6600949841258923107}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6108952900761788154}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6600949840594355163}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6600949840594355160
 GameObject:
   m_ObjectHideFlags: 0
@@ -4828,7 +4948,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6600949840594355163
 Transform:
   m_ObjectHideFlags: 0
@@ -9812,11 +9932,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
---- !u!4 &6634349350483036320 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
-  m_PrefabInstance: {fileID: 6600949840142659403}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6600949840618869494
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9890,11 +10005,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
---- !u!4 &6634349349973210397 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
-  m_PrefabInstance: {fileID: 6600949840618869494}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6600949840697403059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9968,11 +10078,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
---- !u!4 &6634349349894472024 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
-  m_PrefabInstance: {fileID: 6600949840697403059}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6600949841258923107
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10046,8 +10151,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
---- !u!4 &6634349349332951944 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74e49787472c8ff4fab48070f7a8b3a7, type: 3}
-  m_PrefabInstance: {fileID: 6600949841258923107}
-  m_PrefabAsset: {fileID: 0}
